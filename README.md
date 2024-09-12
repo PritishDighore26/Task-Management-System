@@ -57,6 +57,14 @@ Hibernate ORM
 
   iV)Remove Task of User
 
+  ![Screenshot 2024-09-12 185952](https://github.com/user-attachments/assets/ed82a5f7-7336-4f5a-a181-b13a0b9bbc35) ![Screenshot 2024-09-12 190022](https://github.com/user-attachments/assets/5266479f-47f5-41b3-a5c8-c8c55411cd3a)
+
+V)View Task of User
+
+![Screenshot 2024-09-12 182222](https://github.com/user-attachments/assets/b45e90c4-9349-44c8-9794-3164eadfb75f) ![Screenshot 2024-09-12 190022](https://github.com/user-attachments/assets/5266479f-47f5-41b3-a5c8-c8c55411cd3a)
+
+
+
 
 
 
