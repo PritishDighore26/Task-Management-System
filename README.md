@@ -42,9 +42,18 @@ Hibernate ORM
 ![Screenshot 2024-09-12 115102](https://github.com/user-attachments/assets/84e0ed9e-d053-46be-8846-df46549b5116)   ![Screenshot 2024-09-12 181126](https://github.com/user-attachments/assets/68fcec6c-4c0f-4aea-9976-cb1ddf6c47d5)
 
 3)Login Page
+
   i)Admin Login
 
-  ![Screenshot 2024-09-12 182657](https://github.com/user-attachments/assets/54a8deea-6978-4b6d-b620-e7e34c7b3c33) ![Screenshot 2024-09-12 184607](https://github.com/user-attachments/assets/dd00f494-5aec-41fb-a5dd-7dc503e4951b)
+  ![Screenshot 2024-09-12 182657](https://github.com/user-attachments/assets/54a8deea-6978-4b6d-b620-e7e34c7b3c33) 
+
+  ii)Insert Task To User
+
+  ![Screenshot 2024-09-12 181956](https://github.com/user-attachments/assets/5f56a2e3-6b4b-4a06-be18-027c4311ef98) ![Screenshot 2024-09-12 185055](https://github.com/user-attachments/assets/e76f4d4e-514d-4cdc-9bd9-3e813e60062c)
+
+
+  
+
 
 
 
