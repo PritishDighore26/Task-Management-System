@@ -34,5 +34,6 @@ MySQL (Database)
 Hibernate ORM
 
 1)Home Page
+
 ![Screenshot 2024-09-12 113137](https://github.com/user-attachments/assets/374d5e32-95fd-4c69-aa1e-f62cd13d819c)
 
