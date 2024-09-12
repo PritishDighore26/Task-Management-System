@@ -35,5 +35,12 @@ Hibernate ORM
 
 1)Home Page
 
-![Screenshot 2024-09-12 113137](https://github.com/user-attachments/assets/374d5e32-95fd-4c69-aa1e-f62cd13d819c)
+![Screenshot 2024-09-12 113137](https://github.com/user-attachments/assets/74028a4a-cb96-4fe2-878d-552b47b823a2)
+
+2)Registration Page
+
+![Screenshot 2024-09-12 115102](https://github.com/user-attachments/assets/84e0ed9e-d053-46be-8846-df46549b5116)   ![Screenshot 2024-09-12 181126](https://github.com/user-attachments/assets/68fcec6c-4c0f-4aea-9976-cb1ddf6c47d5)
+
+
+
 
