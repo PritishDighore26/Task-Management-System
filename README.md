@@ -51,6 +51,14 @@ Hibernate ORM
 
   ![Screenshot 2024-09-12 181956](https://github.com/user-attachments/assets/5f56a2e3-6b4b-4a06-be18-027c4311ef98) ![Screenshot 2024-09-12 185055](https://github.com/user-attachments/assets/e76f4d4e-514d-4cdc-9bd9-3e813e60062c)
 
+  iii)Update Task of User
+
+  ![Screenshot 2024-09-12 185528](https://github.com/user-attachments/assets/b1d37880-53c4-4362-a7b5-56bebd3cb046) ![Screenshot 2024-09-12 185746](https://github.com/user-attachments/assets/ca9abcc8-b33f-4a3b-a64e-d78ed4ffbf7c)
+
+  iV)Remove Task of User
+
+
+
 
   
 
