@@ -13,7 +13,6 @@ View tasks assigned by the admin
 
 User Interface:
 Intuitive and user-friendly GUI built with Java Swing
-Light green theme for the registration and login pages
 
 Database:
 Integrated with MySQL using Hibernate ORM
