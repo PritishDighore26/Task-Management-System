@@ -20,9 +20,13 @@ CRUD operations for managing tasks and users
 
 Technologies Used
 Frontend: Java Swing
+
 Backend: Hibernate ORM
+
 Database: MySQL
+
 Language: Java
+
 Build Tool: Maven (or Gradle, if used)
 
 Prerequisites
